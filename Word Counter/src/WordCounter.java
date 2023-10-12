@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class WordCounter {
     public static void main(String[] args){
+        
         System.out.println("Enter your string");
         Scanner scanner = new Scanner(System.in);
 
